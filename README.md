@@ -1,5 +1,4 @@
-# Motion_v2 — Dashcam Crash Detector
-
+# Car Crash Analyser
 A computer-vision pipeline that analyses dashcam footage and flags two kinds of crashes:
 
 - **Between-car crash**: two other vehicles collide in front of the camera.
