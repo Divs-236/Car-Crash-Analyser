@@ -85,13 +85,12 @@ The main thresholds live in `detect.py`:
 ## Project structure
 
 ```
-Motion_v2/
+Car Crash Analyser/
 ├── detect.py            # main script
 ├── yolov8n.pt           # YOLOv8 nano weights
 ├── test*.mp4            # sample dashcam clips
 ├── output_annotated.mp4 # generated output
 ├── signal*.png          # generated plots
-├── Presentation/        # project presentation
 ├── LICENSE
 └── README.md
 ```
